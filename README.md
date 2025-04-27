@@ -26,5 +26,16 @@ The video should be about 5-10 minutes and should cover,
 3. Submit two links: One for the video, and one for your public or private GitHub repository (created by you).
 
 ## LoginView
- <video src="[URL](https://github.com/dsample001/CPSC-5340-Final/blob/main/Docs/LoginView.wmv)"></video>
 https://github.com/dsample001/CPSC-5340-Final/blob/main/Docs/LoginView.wmv
+
+## SignUpView
+https://github.com/dsample001/CPSC-5340-Final/blob/main/Docs/SignUpView.wmv
+
+## AssetDetailView
+https://github.com/dsample001/CPSC-5340-Final/blob/main/Docs/AssetDetailView.wmv
+
+## DeleteAsset
+https://github.com/dsample001/CPSC-5340-Final/blob/main/Docs/DeleteAsset.wmv
+
+## NewAssetView
+https://github.com/dsample001/CPSC-5340-Final/blob/main/Docs/NewAssetView.wmv
