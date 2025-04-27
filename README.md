@@ -18,7 +18,7 @@ MarketStack has free accounts but are limited to 100 requests a month.  For this
 ## Requirements
 1.  The application should do something useful and be of more complexity than the previous assignments. (200 points)
 
-2. Make a video of you demoing your app. (100 points)
+2. Make a video of you demonstrating your app. (100 points)
 
 The video should be about 5-10 minutes and should cover,
 
