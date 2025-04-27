@@ -7,9 +7,13 @@
 
 This is the finished Final Project for Daniel Sample.
 
-## Project Details
+## Investment App Project Details
 
-This project uses the Rick And Morty API. From the main screen of this app the user can select characters or episodes(In Work).  If characters are selected app displays a list of characters where the user can select a character to see details about this character including: Name, Species, Origin, 1st Episode, and an image.
+This app is designed to show a user's stocks and the total value of each position.
+It uses Firestore Cloud to authenticate the user and store each user's stock and the amount of each stock owned by the user.
+It also uses an API from “MarketStack” to retrieve information about each stock, including price, company name and others.
+MarketStack has free accounts but are limited to 100 requests a month.  For this project I am using a paid account with a 10,000 request limit.
+
 
 ## Requirements
 1.  The application should do something useful and be of more complexity than the previous assignments. (200 points)
